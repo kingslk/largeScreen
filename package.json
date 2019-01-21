@@ -1,0 +1,40 @@
+{
+  "name": "server-area",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@antv/data-set": "^0.10.1",
+    "@antv/g2": "^3.4.5",
+    "antd": "^3.10.9",
+    "axios": "^0.18.0",
+    "bizcharts": "^3.4.1",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "moment": "^2.23.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-echarts": "^0.1.1",
+    "react-redux": "^6.0.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-slick": "^0.23.2",
+    "redux": "^4.0.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {}
+}

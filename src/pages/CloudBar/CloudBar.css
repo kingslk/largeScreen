@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+.CloudBar .logo {
+    height: 32px;
+    background: rgba(255,255,255,.2);
+    margin: 16px;
+}
+.CloudBar .cloud-name{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}

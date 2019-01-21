@@ -1,0 +1,68 @@
+@import '~antd/dist/antd.css';
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+.ant-layout-header{
+    background: #001529;
+    padding: 0 50px;
+    height: 64px;
+    line-height: 27px;
+}
+.Navigation .logo {
+    width: 50px;
+    height: 31px;
+    background: rgba(255, 255, 255, .2);
+    margin: 16px 20px 16px 0;
+    float: left;
+}
+
+.Navigation .server_cloud {
+    color: #4646ffa8;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.Navigation .server_name {
+    color: #569bcd;
+    margin-left: 120px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.Navigation .server_weather_name {
+    color: white;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+.Navigation .server_temperature {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.Navigation .server_work_year {
+    color: red;
+}
+
+.Navigation .server_work_days {
+    color: #ffae00;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Navigation .server_work_message {
+    margin-left: 100px;
+}
+.Navigation .server_time{
+    color: #8372ff;
+    margin-left: 100px;
+}
+.Navigation .server_now_day{
+    margin-left: 50px;
+}
+.Navigation .ant-progress-circle .ant-progress-text{
+    color:#fff !important;
+}
